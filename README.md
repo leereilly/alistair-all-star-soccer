@@ -22,6 +22,7 @@ DATE      Dojo         Event
 04/13/13  Mires Dojo   White belt - yellow stripe awarded
 04/15/13  Mires Dojo   White belt - blue stripe awarded
 04/16/13  Mires Dojo   Yellow belt awarded
+```
 
 ![](http://i.imgur.com/tp2k8.png)
 
