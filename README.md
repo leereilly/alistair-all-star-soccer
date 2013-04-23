@@ -8,6 +8,7 @@ DATE      LOCATION           RESULT    SCORE     ALLY GOALS        NOTES/EXCUSES
 11/10/12  Red Morton Park    W         4-2       1 (OG)            5v5
 04/08/13  Heather Farms Park L         2-0       0                 5v5 (Other team had BIG KIDS)
 04/15/13  Heather Farms Park D         1-1       0                 5v5 
+04/21/13  Heather Farms Park L         6-1       0                 5v5 (young Messi on opposing team)
 ```
 
 ### Alistair's All-Star Karate Stats :star::punch:
