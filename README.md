@@ -10,6 +10,7 @@ DATE      LOCATION           RESULT    SCORE     ALLY GOALS        NOTES/EXCUSES
 04/15/13  Heather Farms Park D         1-1       0                 5v5 
 04/22/13  Heather Farms Park L         6-1       0                 5v5 (young Messi on opposing team)
 04/29/13  Heather Farms Park W         3-2       2                 5v5
+05/06/13  Heather Farms Park W         4-2       0                 6v5
 ```
 
 ### Alistair's All-Star Karate Stats :star::punch:
@@ -19,7 +20,7 @@ DATE      Dojo         Event
 --------  --------     -----
 03/23/13  Mires Dojo   First lesson
 03/24/13  Mires Dojo   White belt awarded (by nature of it being the 2nd lesson)
-????????  Mires Dojo   White belt - green stripe awarded
+03/31/13  Mires Dojo   White belt - green stripe awarded
 04/09/13  Mires Dojo   White belt - red stripe awarded
 04/13/13  Mires Dojo   White belt - yellow stripe awarded
 04/15/13  Mires Dojo   White belt - blue stripe awarded
