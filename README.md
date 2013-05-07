@@ -10,7 +10,7 @@ DATE      LOCATION           RESULT    SCORE     ALLY GOALS        NOTES/EXCUSES
 04/15/13  Heather Farms Park D         1-1       0                 5v5 
 04/22/13  Heather Farms Park L         6-1       0                 5v5 (young Messi on opposing team)
 04/29/13  Heather Farms Park W         3-2       2                 5v5
-05/06/13  Heather Farms Park W         4-2       0                 6v5
+05/06/13  Heather Farms Park W         4-2       0                 6v5 (Ally on team of 6)
 ```
 
 ### Alistair's All-Star Karate Stats :star::punch:
